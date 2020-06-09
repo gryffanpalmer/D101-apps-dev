@@ -1,1 +1,3 @@
-# D101-apps-dev
+# DO101-apps
+
+Apps for the DO101 course.
